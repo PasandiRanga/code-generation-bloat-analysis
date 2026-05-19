@@ -1,0 +1,7 @@
+A fictional space delivery company records its cargo shipments using a very specific 
+text format: SHIPID:WEIGHT:DESTINATION. For a record to be considered valid, it must 
+have exactly three parts separated by colons. The SHIPID must be exactly six uppercase
+letters. The WEIGHT must be a positive whole number. Finally, the DESTINATION must 
+be a single word with no spaces.Python function that takes a cargo record string as
+input, checks if it perfectly matches these rules, and returns True if it is valid 
+or False if it is not.

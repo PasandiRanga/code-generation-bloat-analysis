@@ -1,0 +1,4 @@
+There is a game called Zorblax with points called zaps and blitzes where each 
+valuing 7 and 13 points respectively. If the blitz count is more than zap in 
+a single round the points from blitz should be doubled. Write a python function 
+to take zaps and blitzes as inputs and return the total points

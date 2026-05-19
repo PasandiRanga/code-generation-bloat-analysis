@@ -1,0 +1,6 @@
+Imagine a school cafeteria gives you digital money for food, but to encourage you to spend it quickly, they use a "decay" rule. 
+For the first 7 days, your money is completely safe, but starting on day 8, you lose exactly 10% of whatever money you have left 
+every single day. Create a Python function that calculates how much money a student has left. The code must take the starting 
+amount of money and the number of days that have passed as inputs, use this decay rule to calculate the remaining balance, 
+and return the final answer as a decimal number rounded to exactly two places. For this function, assume the student has not 
+spent any of the money; you are only calculating how the original amount shrinks due to time passing.

@@ -1,0 +1,5 @@
+Write a Python function to check if a cargo record is valid. The record format should 
+be like SHIPID:WEIGHT:DESTINATION. It must have exactly 3 parts separated by colons. 
+The ship ID should be exactly 6 uppercase letters, the weight should be a positive 
+whole number, and the destination should be just one word without spaces. Return 
+True if the record is valid, otherwise False.

@@ -1,0 +1,4 @@
+There is game called ‘Zorblax’. Players of the game collect points by collecting zaps 
+and blitzes. 7 points allocated to zaps and 13 points allocated to blitzes. If a 
+player collects more blitzes than zaps, his/her points from the zaps will be doubled. 
+Input- zaps count, blitzes count Output- total points Write the python code

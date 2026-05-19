@@ -1,0 +1,5 @@
+Give a python fuction that gives how many money a student has left:
+params: the starting amount of money M, no of days that has past D
+output: a decimal number rounded to exactly two places
+rule: on first 7 days, no decay
+starting on 8th day, money decays 10% exactly of money u have left on every single day

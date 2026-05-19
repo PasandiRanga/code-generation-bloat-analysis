@@ -1,0 +1,7 @@
+imagine a fictional game called Zorblax. In this game, players score points by 
+collecting "zaps" and "blitzes." Every zap is worth 7 points, and every blitz 
+is worth 13 points. However, there is a special combo rule: if a player collects 
+strictly more blitzes than zaps in a single round, the points they get from all 
+of their zaps are doubled. Give me a Python function that takes the number of zaps 
+and the number of blitzes as inputs, calculates the final score based on these 
+rules, and returns the total points.

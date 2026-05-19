@@ -1,0 +1,11 @@
+requirement: a code review python function that determines which pull requests to review first by calculating a priority score
+params:
+no. of days waiting
+number of comments on it
+marked as true or not
+output:
+final priority score as a whole number
+rules:
+add 5 pints for every day the PR has been waiting
+add 2 points for every commit left on it
+if the team has been marked as "urgent" the entire score doubles

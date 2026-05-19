@@ -1,0 +1,5 @@
+Assume there is a cafeteria that gives digital money, that decays to 
+encourage spending. Starting from 8th day, 10% of the money 
+decays daily. Write a python function that takes starting amount of 
+money student has (unspent) and the days passed to calculate the 
+remaining balance the student has, rounded to two decimal places.

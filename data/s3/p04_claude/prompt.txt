@@ -1,0 +1,3 @@
+Create a Python function that calculates how much cafeteria money a student has left after a certain number of days. 
+The function should take the starting amount and the number of days as inputs. For the first 7 days the amount stays the same. 
+Starting from day 8 the money loses 10% of its current value every day. Return the final amount rounded to 2 decimal places.

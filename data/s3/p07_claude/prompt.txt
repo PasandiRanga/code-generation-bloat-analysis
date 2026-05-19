@@ -1,0 +1,6 @@
+A cafeteria of a school digital money for food, 
+First 7 days money is completely safe.
+After 7 days, amount of money shrinks 10% per day.
+Input- amount of money at the beginning, number of days gone
+Output- amount of money left ( round up to 2 decimal places)
+Write the python code

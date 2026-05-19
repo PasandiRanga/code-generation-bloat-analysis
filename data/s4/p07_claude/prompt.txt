@@ -1,0 +1,5 @@
+I want to automate how we rank our pull requests so the oldest ones 
+don't get buried. Can you help me with a Python function? I'm thinking 
+we call it calculate_priority_score(days_waiting, comments, urgent). 
+The logic is: (days * 5) + (comments * 2), then double that total 
+if urgent is True. It should return a whole number.

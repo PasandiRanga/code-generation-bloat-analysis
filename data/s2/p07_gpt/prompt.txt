@@ -1,0 +1,8 @@
+A space cargo shipment company records it’s shipments in a very specific text format.
+SHIPID/WEIGHT/DESTINATION
+Ship Id should contain exactly six uppercase letters
+Weight must be a positive whole number
+Destination must be a one word with no spaces
+Input- text format as a string
+Output- whether it satisfies the rules or not(true or false)
+Write a python code

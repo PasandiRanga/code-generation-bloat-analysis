@@ -1,0 +1,6 @@
+A school cafeteria is using digital money, to encourage the students to spend them earlier school use a decay rule, 
+where the money is safe for the first 7 days after its issued. but after the 8th day its value is lose by 10% by day. 
+the 10% is calculated by the exact amount of money the student has by that day. 
+
+can you write a python code where it takes the starting amount and the number of days passed as inputs and returns 
+the money that is left at the end of that day? the final answer should be in decimal rounded to exactly 2 places.

@@ -1,0 +1,11 @@
+Imagine a fictional code review tool that helps software teams decide 
+which pull requests to review first by calculating a priority score.
+The rules are simple: add 5 points for every day the pull request 
+has been waiting, and add 2 points for every comment already left 
+on it. However, if the team has marked the pull request as "urgent,"
+the entire score is doubled after adding the points for days and 
+comments together. Create a Python function that calculates this 
+priority score. The code must take three inputs: the number of days 
+waiting, the number of comments, and whether it is urgent (True or 
+False), apply this specific scoring logic, and return the final 
+priority score as a whole number.

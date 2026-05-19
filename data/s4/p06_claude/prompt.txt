@@ -1,0 +1,5 @@
+There is a code review tool to calculate a PR ranking based on a priority score. Following are the rules.
+1. 5 points for each day PR is waiting
+2. 2 points for each comment
+3. If team has marked the PR as urgent, double the entire score
+Write a python function that takes the number of days waiting, number of comments and whether it is urgent as inputs to calculate this priority score.

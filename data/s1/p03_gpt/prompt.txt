@@ -1,0 +1,4 @@
+Can you write a Python function for this game? There are zaps and blitzes. 
+A zap gives 7 points and a blitz gives 13 points. If the number of blitzes 
+is greater than the number of zaps, then the zap points should count double. 
+The function should take zaps and blitzes as inputs and return the final total score.

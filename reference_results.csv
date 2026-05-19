@@ -1,0 +1,5 @@
+file,scenario,lloc,cc,dead_code,memory,time_us,edge_crash_rate,edge_error_types,prompt_tokens,pbs_ratio
+data\reference\s1\reference.py,S1,4,4,0,1720,1.4449200127273798,0.0,,,
+data\reference\s2\reference.py,S2,3,1,0,1830,2.0769800059497356,0.0,,,
+data\reference\s3\reference.py,S3,2,3,0,1904,2.076220023445785,0.0,,,
+data\reference\s4\reference.py,S4,4,4,0,2000,1.2926600174978375,0.0,,,

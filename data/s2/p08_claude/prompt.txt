@@ -1,0 +1,8 @@
+Write a python function that checks if a cargo record is valid and returns True or False:
+
+Rules to consider:
+
+Has three parts - SHIPID:WEIGHT:DESTINATION
+SHIPID === 6 uppercase letters
+WEIGHT > 0, AND A WHOLE NUMBER
+destination, a word with no spaces

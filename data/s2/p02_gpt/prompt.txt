@@ -1,0 +1,5 @@
+A company records cargo shipments using the SHIPID:WEIGHT:DESTINATION format. 
+Each record has 3 parts separated by ':' . SHIPID contains 6 uppercase letters, 
+WEIGHT is a positive whole number, DESTINATION must be a single word without spaces.
+Write a python function that takes a record as input, returns true or false 
+for validity 

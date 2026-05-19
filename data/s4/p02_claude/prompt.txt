@@ -1,0 +1,6 @@
+I want to create a fictional code review tool that calculates a priority 
+score for pull requests. It adds 5 points everyday for each PR that 
+has been waiting and 2 points for every comment. But if the team 
+marked it as urgent the total score is doubled. Give me a python 
+function. Take no. of days , no of comments and true or false for 
+urgency as inputs and return the priority score

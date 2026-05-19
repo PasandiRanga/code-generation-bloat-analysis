@@ -1,0 +1,7 @@
+Write a python function that calculates the priority score of a pull 
+request as below. Add 5 points for each day the pull request has 
+been waiting and 2 points for each comment on it. If the pull request 
+is marked as urgent double the total score after adding everything 
+together. The function should take the number of waiting days, 
+number of comments and urgent status (True or False) as inputs and 
+return the final score

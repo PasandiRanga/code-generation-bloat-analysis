@@ -1,0 +1,4 @@
+I want to write a python function for the Zorblax game. Players score points by collecting zaps and blitzes. 
+U get 7 points for every zap and 13 points for every blitz. If the player gets more blitzes than zaps in one 
+round, they get double points for each zap. Function should take zaps and blitzes as inputs and calculate 
+the final score and return.

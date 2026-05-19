@@ -1,0 +1,7 @@
+I need to create a code review tool it gives a score for a pull request based on the priorities so the team can 
+decide which to review first. the score calculates as below : a PR gets 5 points for each day it gets waiting. 
+it gets 2 points to each comment it left on it. and if the team marks it as urgent all of its points should be doubled.
+
+I need to write a Python code where it takes the number of days waiting, number of comments left and whether 
+it is marked as urgent or not (True/False) as inputs and it should return the priority score as the output. 
+numbers should be whole numbers.

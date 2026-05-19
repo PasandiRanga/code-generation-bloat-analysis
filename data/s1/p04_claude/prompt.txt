@@ -1,0 +1,5 @@
+Can you write a Python function to calculate a player’s score in a game? 
+There are zaps and blitzes. Zaps are worth 7 points and blitzes are worth 
+13 points each. If the player has more blitzes than zaps the zap points 
+should count double. The function should take the number of zaps and blitzes 
+and return the final score.

@@ -1,0 +1,3 @@
+I need to create a python function for digital money. It takes no of days and the amount of money as inputs and returns 
+the balance (rounded to 2 decimal places). But after 7 days, starting from 8 days we lose 10% of the initial amount every day. 
+Assume student has not spent any amount.

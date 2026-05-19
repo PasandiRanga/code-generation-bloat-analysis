@@ -1,0 +1,9 @@
+I am developing a game where players score points by collecting Zaps and Blitzes. 
+so it simply works like: a player gets 7 points for a one zap and 13 points for 
+a blitz. and in a special scenario where the player scores more blitzes than zaps
+in the first round his points for zaps get doubled. can you write a python 
+code where it takes zaps and blitzes as inputs and return the final score by 
+calculating according to the above details? no of rounds should be determined
+by the number of points the player takes. if the player gets zero zaps and
+zero blitzes game should stop. and after each round the total score should
+be printed

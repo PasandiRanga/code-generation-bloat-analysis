@@ -1,0 +1,3 @@
+let worth of a single zap and count of zaps be 7 and x, of blitz be 13 and y, 
+sp combo rule, if y > x, then, then total zap only score doubles write a python 
+function that takes as input x and y and calculates the final score.

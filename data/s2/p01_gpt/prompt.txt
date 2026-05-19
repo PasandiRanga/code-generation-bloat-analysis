@@ -1,0 +1,4 @@
+In a system for a space delivery company, it records a cargo shipment in a format as below : SHIPID:WEIGHT:DESTINATION.
+in the format SHIPID should be exactly six uppercase letters. and the WEIGHT should be exactly a positive integer, 
+the DESTINATION should be a string with no spaces. I want to write a python code where it takes a record in 
+"SHIPID:WEIGHT:DESTINATION" format and checks whether it validates to the above rules and return 

@@ -1,0 +1,9 @@
+There is a space delivery company that uses following text format for records. 
+SHIPID:WEIGHT:DESTINATION. Following are the rules to consider a record being 
+valid or not. 
+1. All three parts must be separated with colons 
+2. SHIPID must be six uppercase letters 
+3. WEIGHT must be a positive whole number 
+4. DESTINATION should be a single word without spaces 
+Write a python function to take a record as input, validate against above rules 
+and outputs true or false after validation.
